@@ -32,10 +32,13 @@
 > * usecase diagram
 > ![Use case diagram (1)](https://user-images.githubusercontent.com/80576569/129040363-6b5c8bec-a791-4598-b85b-9e5223446256.png)
 > * E-R diagram
-> e-r다이어그램 자리
+> ![ER diagram](https://user-images.githubusercontent.com/82787224/133020924-f1f1e392-c9dc-469b-9f7e-65afd490c61f.jpg)
 
 ### 🥦 flow chart
-> * 여기 웹 흐름도 넣을 자리
+> ![Flowchart](https://user-images.githubusercontent.com/82787224/133020597-c6f7b72a-3701-4b68-aa28-d4e8ffe80cdf.png)
+
+## 🥦 package diagram
+> ![package diagram](https://user-images.githubusercontent.com/82787224/133020795-19193cd5-9a1b-4607-b317-579fc43f353d.png)
 
 
 ## 🥦 구현한 화면 캡쳐
